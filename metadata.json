@@ -1,0 +1,5 @@
+{
+  "name": "AI Learning Pathway Generator",
+  "description": "Generate personalized learning roadmaps using Open Educational Resources (OER) powered by Gemini AI.",
+  "requestFramePermissions": []
+}
