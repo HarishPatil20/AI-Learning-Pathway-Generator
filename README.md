@@ -99,3 +99,8 @@ Enter your learning goal (e.g., Web Development, AI, Data Science).
 The AI analyzes the goal and generates a structured learning pathway.
 
 Follow the suggested steps and recommended technologies.
+
+🤝 Contributing
+
+Contributions are welcome!
+If you'd like to improve this project, feel free to fork the repository and submit a pull request.
