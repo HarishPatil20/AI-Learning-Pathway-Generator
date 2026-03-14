@@ -105,6 +105,11 @@ Follow the suggested steps and recommended technologies.
 Contributions are welcome!
 If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
+👨‍💻 Author
+
+Developed by Harish Patil
+
+GitHub: https://github.com/HarishPatil20
 
 
 
