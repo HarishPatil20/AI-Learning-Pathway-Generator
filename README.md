@@ -81,3 +81,11 @@ npm install
 Run the development server:
 
 npm run dev
+
+🚀 Usage
+
+Enter your learning goal (e.g., Web Development, AI, Data Science).
+
+The AI analyzes the goal and generates a structured learning pathway.
+
+Follow the suggested steps and recommended technologies.
