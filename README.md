@@ -15,3 +15,29 @@ An AI-powered web application that generates personalized learning pathways for 
 🔗 API-based backend integration
 
 📱 Responsive and user-friendly interface
+
+🛠️ Tech Stack
+
+Frontend
+
+React
+
+TypeScript
+
+Vite
+
+CSS
+
+Backend
+
+Node.js
+
+TypeScript
+
+Express (API server)
+
+Other Tools
+
+Git & GitHub
+
+Environment Variables (.env)
