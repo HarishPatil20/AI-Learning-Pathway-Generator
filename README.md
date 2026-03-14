@@ -1,57 +1,52 @@
-AI Learning Pathway Generator 🚀
+# AI Learning Pathway Generator 🚀
 
 An AI-powered web application that generates personalized learning pathways for users based on their goals, interests, and current skill level. This project helps learners discover structured steps, recommended resources, and technologies to achieve their learning objectives efficiently.
 
-📌 Features
+---
 
-🤖 AI-powered learning roadmap generation
+## 📌 Features
 
-🎯 Personalized pathways based on user goals
+* 🤖 AI-powered learning roadmap generation
+* 🎯 Personalized pathways based on user goals
+* 📚 Recommended technologies and resources
+* ⚡ Fast and modern UI built with React
+* 🔗 API-based backend integration
+* 📱 Responsive and user-friendly interface
 
-📚 Recommended technologies and resources
+---
 
-⚡ Fast and modern UI built with React
+## 🛠️ Tech Stack
 
-🔗 API-based backend integration
+**Frontend**
 
-📱 Responsive and user-friendly interface
+* React
+* TypeScript
+* Vite
+* CSS
 
-🛠️ Tech Stack
+**Backend**
 
-Frontend
+* Node.js
+* TypeScript
+* Express (API server)
 
-React
+**Other Tools**
 
-TypeScript
+* Git & GitHub
+* Environment Variables (.env)
 
-Vite
+---
 
-CSS
-
-Backend
-
-Node.js
-
-TypeScript
-
-Express (API server)
-
-Other Tools
-
-Git & GitHub
-
-
-
-📂 Project Structure
+## 📂 Project Structure
 
 AI-LEARNING-PATHWAY-GENERATOR
 │
 ├── src/
-│ ├── components/
-│ ├── services/
-│ ├── App.tsx
-│ ├── main.tsx
-│ └── index.css
+│   ├── components/
+│   ├── services/
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
 │
 ├── server.ts
 ├── index.html
@@ -61,10 +56,9 @@ AI-LEARNING-PATHWAY-GENERATOR
 ├── .env
 └── README.md
 
-Environment Variables (.env)
+---
 
-
-⚙️ Installation
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -82,37 +76,40 @@ Run the development server:
 
 npm run dev
 
-🚀 Usage
+---
 
-🌟 Future Improvements
+## 🚀 Usage
 
-Add authentication system
+1. Enter your learning goal (e.g., Web Development, AI, Data Science).
+2. The AI analyzes the goal and generates a structured learning pathway.
+3. Follow the suggested steps and recommended technologies.
 
-Save generated learning paths
+---
 
-Integrate more AI models
+## 🌟 Future Improvements
 
-Add progress tracking for learners
+* Add authentication system
+* Save generated learning paths
+* Integrate more AI models
+* Add progress tracking for learners
 
-Enter your learning goal (e.g., Web Development, AI, Data Science).
+---
 
-The AI analyzes the goal and generates a structured learning pathway.
-
-Follow the suggested steps and recommended technologies.
-
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
-👨‍💻 Author
+---
 
-Developed by Harish Patil
-
-GitHub: https://github.com/HarishPatil20
-
-
-
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Harish Patil**
+
+GitHub: https://github.com/HarishPatil20
