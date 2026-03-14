@@ -1,1 +1,3 @@
-"The project repository is now available on GitHub. Detailed README and documentation will be added in the upcoming updates." 🚀
+AI Learning Pathway Generator 🚀
+
+An AI-powered web application that generates personalized learning pathways for users based on their goals, interests, and current skill level. This project helps learners discover structured steps, recommended resources, and technologies to achieve their learning objectives efficiently.
