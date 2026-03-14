@@ -84,6 +84,16 @@ npm run dev
 
 🚀 Usage
 
+🌟 Future Improvements
+
+Add authentication system
+
+Save generated learning paths
+
+Integrate more AI models
+
+Add progress tracking for learners
+
 Enter your learning goal (e.g., Web Development, AI, Data Science).
 
 The AI analyzes the goal and generates a structured learning pathway.
