@@ -40,4 +40,25 @@ Other Tools
 
 Git & GitHub
 
+
+
+📂 Project Structure
+
+AI-LEARNING-PATHWAY-GENERATOR
+│
+├── src/
+│ ├── components/
+│ ├── services/
+│ ├── App.tsx
+│ ├── main.tsx
+│ └── index.css
+│
+├── server.ts
+├── index.html
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+├── .env
+└── README.md
+
 Environment Variables (.env)
