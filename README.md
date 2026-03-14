@@ -62,3 +62,22 @@ AI-LEARNING-PATHWAY-GENERATOR
 └── README.md
 
 Environment Variables (.env)
+
+
+⚙️ Installation
+
+Clone the repository:
+
+git clone https://github.com/HarishPatil20/AI-Learning-Pathway-Generator.git
+
+Navigate into the project folder:
+
+cd AI-Learning-Pathway-Generator
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
+npm run dev
